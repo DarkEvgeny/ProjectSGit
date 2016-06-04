@@ -1,0 +1,3 @@
+C:\Users\Евгений\Documents\Unreal Projects\ProjectS\Source\ProjectS\ProjectS.Build.cs
+C:\Users\Евгений\Documents\Unreal Projects\ProjectS\Source\ProjectS.Target.cs
+C:\Users\Евгений\Documents\Unreal Projects\ProjectS\Source\ProjectSEditor.Target.cs
